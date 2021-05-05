@@ -46,3 +46,4 @@ int main()
    printf("%d",day2-day1);   
   }
 }
+//閏年功能未做!!
